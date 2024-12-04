@@ -8,3 +8,4 @@ beautifulsoup4
 chromadb
 transformers 
 sentence_transformers
+pysqlite3-binary
