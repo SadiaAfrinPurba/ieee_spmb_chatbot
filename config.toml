@@ -1,0 +1,5 @@
+[data_sources]
+urls = [
+  "https://isip.piconepress.com/conferences/ieee_spmb/2024/index.shtml",
+  "https://isip.piconepress.com/conferences/ieee_spmb/2024/html/guidelines.shtml"
+]

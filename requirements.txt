@@ -1,0 +1,10 @@
+langchain
+langchain_community
+scikit-learn
+langchain-ollama
+langchain-openai
+streamlit
+beautifulsoup4
+chromadb
+transformers 
+sentence_transformers
