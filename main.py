@@ -1,7 +1,4 @@
 import sys
-import pysqlite3
-
-sys.modules['sqlite3'] = pysqlite3
 import streamlit as st
 import os
 import toml
@@ -80,7 +77,9 @@ user_query = st.chat_input("Enter your message")
 if user_query:
     with st.spinner("Generating response..."):
         response, elapsed_time = generate_response(user_query)
-    
+
     with st.chat_message("assistant"):
         st.markdown(response)
         st.markdown(f"*Response generated in {elapsed_time:.2f} seconds.*")
+        
+
