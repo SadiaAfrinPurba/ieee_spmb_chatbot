@@ -6,4 +6,4 @@ beautifulsoup4
 chromadb
 transformers 
 sentence_transformers
-llama-cpp-python
+llama-cpp-python --prefer-binary
