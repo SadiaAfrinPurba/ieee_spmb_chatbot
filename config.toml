@@ -1,0 +1,8 @@
+[data_sources]
+urls = [
+  "https://isip.piconepress.com/conferences/ieee_spmb/2024/index.shtml",
+  "https://isip.piconepress.com/conferences/ieee_spmb/2024/html/guidelines.shtml"
+]
+
+[model]
+path = "models/llama-2-7b-optimized/llama-2-7b-chat.Q4_K_M.gguf"

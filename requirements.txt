@@ -1,0 +1,9 @@
+langchain
+langchain_community
+scikit-learn
+streamlit
+beautifulsoup4
+chromadb
+transformers 
+sentence_transformers
+llama-cpp-python
